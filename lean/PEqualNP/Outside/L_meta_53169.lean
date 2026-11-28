@@ -1,7 +1,8 @@
--- Adapted from lean/PEqualNP/Outside/L_meta_53170.lean (merged upstream, PR 56537 by l-koehler), Apache-2.0.
--- The interval version there is specialised here to singleton intervals and the explicit cyclic family.
 import Mathlib
 import PEqualNP.Defs
+
+-- Adapted from lean/PEqualNP/Outside/L_meta_53170.lean (merged upstream, PR 56537 by l-koehler), Apache-2.0.
+-- The interval version there is specialised here to singleton intervals and the explicit cyclic family.
 
 namespace PEqualNP.Outside.L_meta_53169_aux
 
